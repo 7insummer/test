@@ -2,4 +2,5 @@ server:
   port: 8013
 
 sc:
-  test: 123
+  test:
+    t: 123
